@@ -10,6 +10,11 @@ h1 {
   color:#381924;
   font-size:60px;
 }
+img.1 {
+  position:fixed;
+  top:10px;
+  right:5px;
+}
 table {
   color:#381924;
   width:500px;
