@@ -1,7 +1,5 @@
 body {
   width:960px;
-  margin-left:auto;
-  maigin-right:auto;
   border-width:5px;
   border-style:solid;
   border-color:#a61b29;
@@ -15,8 +13,6 @@ h1 {
 table {
   color:#381924;
   width:500px;
-  margin-left:auto;
-  maigin-right:auto;
   border-width:2px;
   border-style:solid;
   border-color:#a61b29;
