@@ -3,16 +3,14 @@ body {background-color:grey;
   margin-left:auto;
   maigin-right:auto;
   border-width:5px;
-  border-color:purple;
   border-style:solid;
+  border-color:purple;
+  border-radius: 5px;
 }
 h1 {color:blue;
   font-size:60px;
-  
-
-
 }
-p {color:darkgreen;
+p {color:green;
   font-size:35px;
   
 }
