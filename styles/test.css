@@ -1,5 +1,5 @@
 body {
-  width:960px;
+  width:800px;
   margin:auto;
   border-width:5px;
   border-style:solid;
@@ -7,7 +7,7 @@ body {
   border-radius: 5px;
   padding-left:40px;
   padding-bottom:40px;
-  background-color:#93b5cf;
+  background-color:#baccd9;
 }
 h1 {
   color:#381924;
@@ -25,4 +25,7 @@ table {
   border-style:solid;
   border-color:#144a74;
   border-radius: 2px;
+}
+a {
+  color:#45b787;
 }
