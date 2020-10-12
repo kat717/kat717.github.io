@@ -24,9 +24,9 @@ table {
   border-width:2px;
   border-style:solid;
   border-color:#144a74;
-  border-radius: 2px;
+  border-radius:2px;
 }
-a：link {
+a:link {
   color:#45b787;
 }
 a:hover {
