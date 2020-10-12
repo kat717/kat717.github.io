@@ -2,9 +2,9 @@ body {
   width:960px;
   border-width:5px;
   border-style:solid;
-  border-color:#a61b29;
+  border-color:#144a74;
   border-radius: 5px;
-  background-color:#c04851;
+  background-color:#93b5cf;
 }
 h1 {
   color:#381924;
@@ -15,6 +15,6 @@ table {
   width:500px;
   border-width:2px;
   border-style:solid;
-  border-color:#a61b29;
+  border-color:#144a74;
   border-radius: 2px;
 }
