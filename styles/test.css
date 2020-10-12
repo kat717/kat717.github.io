@@ -40,6 +40,7 @@ div {
 }
 #bain, #content {
  display: table-cell;
+ padding-left:40px;
 }
 #bain {
  width: 200px;
