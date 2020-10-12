@@ -5,6 +5,7 @@ body {
   border-style:solid;
   border-color:#144a74;
   border-radius: 5px;
+  padding-left:40px;
   background-color:#93b5cf;
 }
 h1 {
