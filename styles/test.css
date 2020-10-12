@@ -1,10 +1,10 @@
 body {
   width:1000px;
   margin:auto;
-  border-width:5px;
+  border-width:4px;
   border-style:solid;
   border-color:#144a74;
-  border-radius: 5px;
+  border-radius:4px;
   padding-left:40px;
   padding-bottom:40px;
   background-color:#baccd9;
@@ -31,4 +31,11 @@ a:link {
 }
 a:hover {
   color:#fecc11;
+}
+div{
+  border-width:2px;
+  border-style:solid;
+  border-color:#144a74;
+  border-radius:2px;
+  margin: 5px;
 }
