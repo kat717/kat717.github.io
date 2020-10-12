@@ -1,4 +1,4 @@
-body {background-color:grey;
+body {
   width:1000px;
   margin-left:auto;
   maigin-right:auto;
@@ -6,11 +6,8 @@ body {background-color:grey;
   border-style:solid;
   border-color:purple;
   border-radius: 5px;
+  background-color:grey;
 }
 h1 {color:blue;
   font-size:60px;
-}
-p {color:green;
-  font-size:35px;
-  
 }
