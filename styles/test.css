@@ -38,7 +38,6 @@ a:hover {
 }
 #bain, #content {
  display: table-cell;
- padding-left:30px;
 }
 #bain {
  width: 250px;
@@ -46,6 +45,7 @@ a:hover {
 }
 #content {
   padding-top:10px;
+  padding-left:30px;
 }
 #int {
   padding-left:70px;
