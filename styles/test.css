@@ -26,6 +26,9 @@ table {
   border-color:#144a74;
   border-radius: 2px;
 }
-a {
+a：link {
   color:#45b787;
+}
+a:hover {
+  color:#fecc11;
 }
