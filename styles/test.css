@@ -1,5 +1,5 @@
 body {
-  width:1000px;
+  width:800px;
   margin-left:auto;
   maigin-right:auto;
   border-width:5px;
@@ -8,6 +8,17 @@ body {
   border-radius: 5px;
   background-color:grey;
 }
-h1 {color:blue;
+h1 {
+  color:blue;
   font-size:60px;
+}
+table {
+  color:darkgreen;
+  width:500px;
+  margin-left:auto;
+  maigin-right:auto;
+  border-width:2px;
+  border-style:solid;
+  border-color:darkpurple;
+  border-radius: 2px;
 }
