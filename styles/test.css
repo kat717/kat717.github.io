@@ -25,7 +25,7 @@ a:link {
 a:hover {
   color:#fecc11;
 }
-div {
+#bain, #center, #content, #header, #footer {
   border-width:2px;
   border-style:solid;
   border-color:#144a74;
