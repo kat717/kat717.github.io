@@ -30,6 +30,10 @@ a:active {
   color:#45b787;
   text-decoration:none;
     }
+a:visited {
+  color:#45b787;
+  text-decoration:none;
+    }
 #bain, #center, #content, #header, #footer {
   border-width:2px;
   border-style:solid;
