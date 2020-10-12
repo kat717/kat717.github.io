@@ -41,10 +41,10 @@ div {
  display: table;
  width: 948px;
 }
-#nav, #content {
+#bain, #content {
  display: table-cell;
 }
-#nav {
+#bain {
  width: 150px;
 }
 
