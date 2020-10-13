@@ -23,12 +23,17 @@ a:link {
   color:#45b787;
   text-decoration:none;
 }
-a:hover {
-  color:#fecc11;
-}
 a:visited {
   color:#45b787;
   text-decoration:none;
+    }
+a:hover {
+  color:#fecc11;
+  text-decoration:underline;
+}
+a:active {
+  color:#381924;
+  text-decoration:underline;
     }
 #bain, #center, #content, #header, #footer {
   border-width:2px;
