@@ -40,7 +40,6 @@ a:active {
 }
 #center {
  display: table;
- width: 1000px;
 }
 #bain, #content {
  display: table-cell;
